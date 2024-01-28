@@ -231,7 +231,7 @@ EzLauncher.NewsSection.Parent = EzLauncher.Frame
 EzLauncher.NewsSection.AnchorPoint = Vector2.new(0.5, 0)
 EzLauncher.NewsSection.BackgroundColor3 = Color3.fromRGB(35, 47, 62)
 EzLauncher.NewsSection.BorderSizePixel = 0
-EzLauncher.NewsSection.Size = UDim2.new(1, -20, 0, 150)
+EzLauncher.NewsSection.Size = UDim2.new(1, -20, 0, 115)
 
 EzLauncher.SectionTopBar_2.Name = "SectionTopBar"
 EzLauncher.SectionTopBar_2.Parent = EzLauncher.NewsSection
