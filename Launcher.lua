@@ -65,7 +65,7 @@ EzLauncher.Frame.Parent = EzLauncher.EzLauncher
 EzLauncher.Frame.AnchorPoint = Vector2.new(0.5, 0.5)
 EzLauncher.Frame.BackgroundColor3 = Color3.fromRGB(41, 53, 68)
 EzLauncher.Frame.Position = UDim2.new(0.5, 0, 0.5, 0)
-EzLauncher.Frame.Size = UDim2.new(0, 250, 0, 300)
+EzLauncher.Frame.Size = UDim2.new(0, 350, 0, 250)
 
 EzLauncher.StatusSection.Name = "StatusSection"
 EzLauncher.StatusSection.Parent = EzLauncher.Frame
